@@ -39,7 +39,7 @@
 
 [website]: http://knowkamal.com/
 [instagram]: http://knowkamal.com
-[linkedin]: www.linkedin.com/in/kamalkant2392
+[linkedin]: https://www.linkedin.com/in/kamalkant2392
 [webdevplaylist]: http://knowkamal.com
 [jsplaylist]: http://knowkamal.com
 [cssplaylist]: http://knowkamal.com

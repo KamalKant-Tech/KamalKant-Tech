@@ -28,10 +28,14 @@
 <br />
 <br />
 
-
 ---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamalkant-Tech&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<img align="left" alt="Kamal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=KamalKant-Tech&show_icons=true&hide_border=true" />
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=KamalKant-Tech&show_icons=true&include_all_commits=true&theme=dark" alt="Kamal's github stats" />
+</a>
+
+<br />
 
 [website]: http://knowkamal.com/
 [instagram]: http://knowkamal.com

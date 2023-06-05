@@ -1,7 +1,7 @@
 ### Hi there, I'm Kamal Kant - aka KK 👋
 
 ## I'm a Software Developer!
-- 🌱 I’m currently learning GoLang | Python
+- 🌱 I know Golang, Php, NodeJs and Front End.
 - 👯 I’m looking to collaborate with other content creators
 - ⚡ Fun fact: I love to draw and Cycling
 

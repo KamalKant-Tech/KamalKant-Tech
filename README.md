@@ -2,8 +2,9 @@
 
 ## I'm a Software Developer!
 - 🌱 I know Golang, Php, NodeJs and Front End.
-- 👯 I’m looking to collaborate with other content creators
-- ⚡ Fun fact: I love to draw and Cycling
+- 🎯 Familiarity and background in using AWS, Docker, and Kubernetes.
+- 👯 I’m looking to collaborate with other content creators.
+- ⚡ Fun fact: I love to draw and Cycling.
 - 😊 Happy to help
 
 ### Connect with me:
